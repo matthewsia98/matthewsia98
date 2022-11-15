@@ -1,11 +1,9 @@
 ## Hi there 🥷🏻
 
-[![Folke's github stats](https://github-readme-stats.vercel.app/api?username=matthewsia98&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/folke)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewsia98&show_icons=true&theme=tokyonight)](https://github.com/folke)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=matthewsia98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Matthew's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewsia98&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 <!--
-**folke/folke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**matthewsia98/matthewsia98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
